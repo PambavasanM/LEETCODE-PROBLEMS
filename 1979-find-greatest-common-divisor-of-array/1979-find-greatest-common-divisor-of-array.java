@@ -1,3 +1,4 @@
+import java.math.BigInteger;
 class Solution {
     public int findGCD(int[] nums) {
         Arrays.sort(nums);
@@ -5,22 +6,9 @@ class Solution {
         int min = nums[0];
         int max = nums[nums.length-1];
 
-        while(max!=0)
-        {
-            int temp = max;
-            max = min%max;
-            min = temp;
-            
-        }
-      return min;
+       
+      return BigInteger.valueOf(min).gcd(BigInteger.valueOf(max)).intValue();
     }
 
-    static {
-Runtime.getRuntime().addShutdownHook(new Thread(() -> {
-    try (java.io.FileWriter fw = new java.io.FileWriter("display_runtime.txt")) {
-            fw.write("0");
-        } catch (Exception e) {
-        }
-    }));
-}
+    
 }
