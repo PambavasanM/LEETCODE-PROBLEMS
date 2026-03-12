@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0001-two-sum/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -33,4 +35,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0001-two-sum/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
