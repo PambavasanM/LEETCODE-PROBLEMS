@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0020-valid-parentheses/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [3110-score-of-a-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3110-score-of-a-string/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0001-two-sum/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,4 +49,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 <!---LeetCode Topics End-->
