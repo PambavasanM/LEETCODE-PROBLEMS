@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1389-create-target-array-in-the-given-order](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0001-two-sum/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2404-most-frequent-even-element/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2404-most-frequent-even-element/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
