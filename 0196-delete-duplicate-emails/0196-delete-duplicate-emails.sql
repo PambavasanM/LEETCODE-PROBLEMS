@@ -1,5 +1,5 @@
-DELETE p
-FROM Person p
-JOIN Person d
-ON p.email = d.email
-AND p.id > d.id;
+DELETE p1
+FROM Person p1
+JOIN Person p2
+ON p1.email = p2.email
+AND p1.id > p2.id;
