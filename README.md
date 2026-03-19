@@ -98,4 +98,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0136-single-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0190-reverse-bits/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
