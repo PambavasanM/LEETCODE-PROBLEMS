@@ -18,13 +18,12 @@ class Solution {
                 freq[s2.charAt(left) - 'a']++;
                 left++;
             }
-            if(allZero(freq))
-        {
-            return true;
-        }
-        }
 
-        
+            if(allZero(freq))
+            {
+            return true;
+            }
+        }  
 
         return false;
     }
@@ -35,6 +34,5 @@ class Solution {
             if (freq[i] != 0) return false;
         }
         return true;
-       
     }
 }
