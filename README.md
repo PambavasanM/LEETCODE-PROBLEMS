@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0001-two-sum/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0136-single-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -126,4 +128,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
