@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0183-customers-who-never-order](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1527-patients-with-a-condition/) | Easy |
+| [1965-employees-with-missing-information](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1965-employees-with-missing-information/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
