@@ -7,15 +7,15 @@ class Solution {
         {
             int mid = left + (right - left)/2;
 
-            if(arr[mid] > arr[mid+1])
+            if(arr[mid] < arr[mid+1])
             {
-                right = mid;
+                left = mid+1;
             }
             else
             {
-                left = mid + 1;
+                right = mid;
             }
         }
-        return left;
+        return right;
     }
 }
