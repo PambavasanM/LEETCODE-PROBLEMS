@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1470-shuffle-the-array/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1929-concatenation-of-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1929-concatenation-of-array/) | Easy |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
 | [0645-set-mismatch](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2404-most-frequent-even-element/) | Easy |
 ## Binary Search
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2404-most-frequent-even-element/) | Easy |
 ## Math
