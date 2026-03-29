@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0020-valid-parentheses/) | Easy |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0043-multiply-strings](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0043-multiply-strings/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0424-longest-repeating-character-replacement/) | Medium |
