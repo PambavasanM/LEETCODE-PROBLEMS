@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0043-multiply-strings/) | Medium |
+| [0189-rotate-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0509-fibonacci-number/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0016-3sum-closest/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0189-rotate-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0905-sort-array-by-parity/) | Easy |
