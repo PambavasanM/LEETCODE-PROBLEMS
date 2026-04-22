@@ -9,7 +9,7 @@ class Solution {
             {
                 return true;
             }
-            map.put(i, c);
+            map.put(c, i);
         }
         return false;
     }
