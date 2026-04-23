@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0035-search-insert-position/) | Easy |
+| [0042-trapping-rain-water](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0053-maximum-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -152,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0016-3sum-closest/) | Medium |
+| [0042-trapping-rain-water](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0189-rotate-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
@@ -208,4 +212,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0658-find-k-closest-elements/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
