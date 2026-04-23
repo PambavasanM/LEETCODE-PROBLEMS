@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0136-single-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0136-single-number/) | Easy |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0016-3sum-closest/) | Medium |
+| [0056-merge-intervals](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0217-contains-duplicate/) | Easy |
 | [0645-set-mismatch](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0658-find-k-closest-elements/) | Medium |
