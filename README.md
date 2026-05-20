@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0278-first-bad-version/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -254,4 +255,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0278-first-bad-version/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
