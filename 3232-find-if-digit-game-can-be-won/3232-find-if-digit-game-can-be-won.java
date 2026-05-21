@@ -13,13 +13,10 @@ class Solution {
                 b+=num;
             }
         }
-        int alice = Math.max(a, b);
-        int bob = Math.min(a, b);
-
-        if(alice > bob)
+        if(a == b)
         {
-            return true;
+            return false;
         }
-        return false;
+        return true;
     }
 }
