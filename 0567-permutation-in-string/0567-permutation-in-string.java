@@ -31,7 +31,10 @@ class Solution {
     private boolean allZero(int freq[])
     {
         for (int i = 0; i < 26; i++) {
-            if (freq[i] != 0) return false;
+            if (freq[i] != 0) 
+            {
+                return false;
+            }
         }
         return true;
     }
