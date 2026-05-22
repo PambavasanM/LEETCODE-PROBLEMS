@@ -3,7 +3,7 @@ class Solution {
         int nums2[] = new int[nums.length];
         for(int i = 0; i < nums.length; i++)
         {
-            nums2[nums.length-i-1] = nums[i];
+            nums2[nums.length-1-i] = nums[i];
         }
         int arr[] = new int[nums.length+nums2.length];
         System.arraycopy(nums, 0, arr, 0, nums.length);
