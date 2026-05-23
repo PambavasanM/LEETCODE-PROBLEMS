@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1389-create-target-array-in-the-given-order](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1470-shuffle-the-array/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1929-concatenation-of-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
