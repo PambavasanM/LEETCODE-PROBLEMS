@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0202-happy-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0043-multiply-strings/) | Medium |
 | [0189-rotate-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0504-base-7](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0504-base-7/) | Easy |
 | [0509-fibonacci-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0509-fibonacci-number/) | Easy |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0202-happy-number/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0658-find-k-closest-elements/) | Medium |
