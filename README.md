@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0190-reverse-bits/) | Easy |
 | [0268-missing-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
+| [1009-complement-of-base-10-integer](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
