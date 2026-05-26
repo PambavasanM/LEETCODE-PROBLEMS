@@ -14,9 +14,7 @@ class Solution {
                 upper.add(Character.toLowerCase(ch));
             }
         }
-
         int count = 0;
-
         for(char ch : lower)
         {
             if(upper.contains(ch))
