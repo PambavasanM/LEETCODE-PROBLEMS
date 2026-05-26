@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0441-arranging-coins](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0441-arranging-coins/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
+| [0441-arranging-coins](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0441-arranging-coins/) | Easy |
 | [0504-base-7](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0504-base-7/) | Easy |
 | [0509-fibonacci-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0509-fibonacci-number/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
