@@ -224,11 +224,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0191-number-of-1-bits/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1009-complement-of-base-10-integer/) | Easy |
