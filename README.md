@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2293-min-max-game](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2293-min-max-game/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0905-sort-array-by-parity/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -286,4 +288,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 <!---LeetCode Topics End-->
