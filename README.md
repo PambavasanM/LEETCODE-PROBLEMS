@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
