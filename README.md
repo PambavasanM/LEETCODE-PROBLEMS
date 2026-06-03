@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0016-3sum-closest/) | Medium |
 | [0042-trapping-rain-water](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
+| [0088-merge-sorted-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0202-happy-number/) | Easy |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0016-3sum-closest/) | Medium |
 | [0056-merge-intervals](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0056-merge-intervals/) | Medium |
+| [0088-merge-sorted-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
