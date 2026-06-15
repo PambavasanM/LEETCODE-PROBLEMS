@@ -107,12 +107,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0203-remove-linked-list-elements](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0509-fibonacci-number/) | Easy |
 ## Stack
