@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3110-score-of-a-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3110-score-of-a-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Prefix Sum
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Counting
