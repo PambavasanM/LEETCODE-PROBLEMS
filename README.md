@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
+| [3131-find-the-integer-added-to-array-i](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
