@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0441-arranging-coins](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0441-arranging-coins/) | Easy |
 | [0504-base-7](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0504-base-7/) | Easy |
 | [0509-fibonacci-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0509-fibonacci-number/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
