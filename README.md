@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 ## Database
 | Problem Name | Difficulty |
