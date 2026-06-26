@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3110-score-of-a-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3110-score-of-a-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3174-clear-digits](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3174-clear-digits/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2390-removing-stars-from-a-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3174-clear-digits](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3174-clear-digits/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3945-digit-frequency-score](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3945-digit-frequency-score/) | Easy |
@@ -348,4 +351,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0561-array-partition/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 <!---LeetCode Topics End-->
