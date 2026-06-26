@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [3110-score-of-a-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3110-score-of-a-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3174-clear-digits](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3174-clear-digits/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0844-backspace-string-compare](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0844-backspace-string-compare/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3174-clear-digits](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3174-clear-digits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2293-min-max-game](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2293-min-max-game/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3174-clear-digits](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3174-clear-digits/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3612-process-string-with-special-operations-i/) | Medium |
