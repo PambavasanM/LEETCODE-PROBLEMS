@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1389-create-target-array-in-the-given-order](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1470-shuffle-the-array/) | Easy |
+| [1528-shuffle-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1528-shuffle-string/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0844-backspace-string-compare/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1528-shuffle-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1528-shuffle-string/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
