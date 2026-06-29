@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1929-concatenation-of-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1929-concatenation-of-array/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2390-removing-stars-from-a-string/) | Medium |
