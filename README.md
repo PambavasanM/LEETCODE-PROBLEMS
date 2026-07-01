@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0704-binary-search/) | Easy |
+| [0724-find-pivot-index](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0724-find-pivot-index/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
