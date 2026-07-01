@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
+| [0414-third-maximum-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
+| [0414-third-maximum-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0561-array-partition/) | Easy |
 | [0645-set-mismatch](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0658-find-k-closest-elements/) | Medium |
