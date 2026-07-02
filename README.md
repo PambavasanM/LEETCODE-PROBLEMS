@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0844-backspace-string-compare/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1496-path-crossing](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1496-path-crossing/) | Easy |
 | [1528-shuffle-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1528-shuffle-string/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1496-path-crossing](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1496-path-crossing/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2404-most-frequent-even-element/) | Easy |
