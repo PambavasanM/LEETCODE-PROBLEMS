@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0896-monotonic-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0896-monotonic-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0989-add-to-array-form-of-integer](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0441-arranging-coins](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0441-arranging-coins/) | Easy |
 | [0504-base-7](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0504-base-7/) | Easy |
 | [0509-fibonacci-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0509-fibonacci-number/) | Easy |
+| [0989-add-to-array-form-of-integer](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
