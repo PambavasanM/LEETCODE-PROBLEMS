@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0056-merge-intervals/) | Medium |
+| [0066-plus-one](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0088-merge-sorted-array/) | Easy |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0043-multiply-strings/) | Medium |
+| [0066-plus-one](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
