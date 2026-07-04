@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2390-removing-stars-from-a-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3083-existence-of-a-substring-in-a-string-and-its-reverse/) | Easy |
 | [3110-score-of-a-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3110-score-of-a-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3174-clear-digits](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3174-clear-digits/) | Easy |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2053-kth-distinct-string-in-an-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/2404-most-frequent-even-element/) | Easy |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3083-existence-of-a-substring-in-a-string-and-its-reverse/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3866-first-unique-even-element](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3866-first-unique-even-element/) | Easy |
 | [3945-digit-frequency-score](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3945-digit-frequency-score/) | Easy |
