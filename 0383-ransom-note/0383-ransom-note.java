@@ -1,21 +1,22 @@
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
+        char a[] = ransomNote.toCharArray();
+        char b[] = magazine.toCharArray();
 
-        char[] r = ransomNote.toCharArray();
-        char[] m = magazine.toCharArray();
+        Arrays.sort(a);
+        Arrays.sort(b);
 
-        Arrays.sort(r);
-        Arrays.sort(m);
+        int i = 0;
+        int j = 0;
 
-        int i = 0, j = 0;
-
-        while (i < r.length && j < m.length) {
-            if (r[i] == m[j]) {
+        while(i < a.length && j < b.length)
+        {
+            if(a[i] == b[j])
+            {
                 i++;
             }
             j++;
         }
-
-        return i == r.length;
+        return i == a.length;
     }
 }
