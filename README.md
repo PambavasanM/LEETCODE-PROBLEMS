@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1528-shuffle-string/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1496-path-crossing](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1496-path-crossing/) | Easy |
 | [1528-shuffle-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1528-shuffle-string/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
