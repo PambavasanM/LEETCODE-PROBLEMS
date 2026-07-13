@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3689-maximum-total-subarray-value-i](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3866-first-unique-even-element](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3866-first-unique-even-element/) | Easy |
+| [3895-count-digit-appearances](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3895-count-digit-appearances/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3895-count-digit-appearances](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/3945-digit-frequency-score/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
