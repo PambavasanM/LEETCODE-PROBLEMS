@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0020-valid-parentheses/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0043-multiply-strings](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0043-multiply-strings/) | Medium |
+| [0125-valid-palindrome](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0290-word-pattern/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/PambavasanM/LEETCODE-PROBLEMS/tree/main/0202-happy-number/) | Easy |
